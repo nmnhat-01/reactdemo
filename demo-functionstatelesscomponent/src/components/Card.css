@@ -1,0 +1,6 @@
+.card{
+    border: 1px solid #ccc;
+    height: fit-content;
+    width: fit-content;
+    margin-bottom: 15px;
+}
